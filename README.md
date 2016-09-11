@@ -1,2 +1,5 @@
 whatdevice演示  
-<https://wuyumin.github.io/whatdevice>
+欢迎你使用各种设备进行访问测试  
+网址：<https://wuyumin.github.io/whatdevice>  
+二维码  
+![二维码](//wuyumin.github.io/whatdevice/assets/img/qrcode.png "二维码")  
