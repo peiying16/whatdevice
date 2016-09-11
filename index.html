@@ -5,7 +5,10 @@
 <title>whatdevice演示</title>
 <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
 <meta name="format-detection" content="telephone=no,email=no,adress=no">
-<script src="./2.2.2/whatdevice.min.js"></script>
+
+<!-- 加载whatdevice的JS文件 -->
+<script src="https://wuyumin.github.io/whatdevice/2.2.2/whatdevice.min.js"></script>
+
 <style>
 *{margin:0 auto;padding:0;}
 body{background:#fff;}
@@ -22,6 +25,7 @@ h3{font-size:100%;font-weight:normal;font-weight:bold;}
 <div id="wrap">
 <div style="text-align:center;font-weight:bold;">whatdevice演示</div>
 <script>
+//使用举例，更多使用方法请访问https://github.com/wuyumin/whatdevice
     if(whatdevice.isMobile()){
         alert('你是手机访问的');
     }else{
